@@ -1,0 +1,9 @@
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\bin\Debug\netcoreapp3.1\Infra.CrossCutting.deps.json
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\bin\Debug\netcoreapp3.1\Infra.CrossCutting.dll
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\bin\Debug\netcoreapp3.1\Infra.CrossCutting.pdb
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.dll
+C:\Users\g.pedro\Desktop\Gabriel\projects\DDD-Crud\Infra.CrossCutting\obj\Debug\netcoreapp3.1\Infra.CrossCutting.pdb
